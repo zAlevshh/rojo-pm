@@ -2,5 +2,9 @@
   "ProfileService": {
     "url": "https://raw.githubusercontent.com/MadStudioRoblox/ProfileService/refs/heads/master/ProfileService.lua",
     "version": "1.0.0"
+  },
+  "Signal":{
+    "url": "https://raw.githubusercontent.com/zAlevshh/Signal/refs/heads/main/Signal.lua",
+    "version": "1.0.0"
   }
 }
