@@ -6,5 +6,9 @@
   "Signal":{
     "url": "https://raw.githubusercontent.com/zAlevshh/Signal/refs/heads/main/Signal.lua",
     "version": "1.0.0"
+  },
+  "UltraMemory":{
+    "url": "https://github.com/zAlevshh/UltraMemory/blob/main/UltraMemory.lua",
+    "version": "1.0.1"
   }
 }
